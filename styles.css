@@ -1,0 +1,43 @@
+.card{
+  border: 1px solid rgb(204,204,204);
+  box-shadow: 7px 7px rgba(204,204,204, 0.5);
+  width: 300px;
+  padding: 10px;
+}
+.title{
+  font-size: 20px;
+  font-weight: bold;
+}
+.image{
+  width:300px:
+  padding: 10px;
+}
+
+.information{
+  border: 1px solid rgb(204,204,204);
+  margin:0px;
+  padding: 10px;
+
+}
+.fact{
+  font-style: italic;
+}
+
+.label{
+  font-weight: bold;
+}
+
+p{
+
+}
+
+li{
+  list-style: none;
+}
+ul{
+  padding: 0px;
+}
+html{
+  font-size: 14px;
+  font-family: "Times New Roman";
+}
